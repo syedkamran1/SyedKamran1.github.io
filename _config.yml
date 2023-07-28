@@ -5,3 +5,8 @@
 title: Syed Muhammad Kamran
 description: [Data Scientist]
 remote_theme: pages-themes/minimal@v0.2.0
+
+github:
+  repository_url: google.com
+  another_url: another value
+ 
