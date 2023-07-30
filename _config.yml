@@ -10,11 +10,18 @@ github:
   another_url: another value
   is_project_page: false
 
-fruits:
+
   name: Apple
   name: Banana
   name: Orange
   name: Mango
   name: Test
+
+fruits:
+- name: Apple
+- name: Banana
+- name: Orange
+- name: Mango
+
 
  
