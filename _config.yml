@@ -1,7 +1,7 @@
 # add the following to _config.yml file
 
 title: Syed M Kamran
-logo: /Assets/Images/MyImage3.jpeg
+logo: /assets/images/MyImage3.jpeg
 description: [Data Scientist]
 remote_theme: pages-themes/minimal@v0.2.0
 
