@@ -24,7 +24,7 @@
         <p id="site_desc">{{ site.description | default: site.github.project_tagline }}</p>
 
         {% for contact_detail in site.contact_details %}
-          <p id="contact_details"><i class="far fa-envelope"></i>{{ contact_detail.name }}</p>
+          <p id="contact_details"><i class={site.fa_icons}></i>{{ contact_detail.name }}</p>
         {% endfor %}
 
 
