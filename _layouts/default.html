@@ -23,6 +23,10 @@
 
         <p id="site_desc">{{ site.description | default: site.github.project_tagline }}</p>
 
+        <p id="site_desc">{{ site.fruits }}</p>
+
+        <p id="site_desc">{{ site.fruits.name }}</p>
+
         {% for fruit in site.fruits %}
           <p>{{ fruit.name }}</p>
         {% endfor %}
