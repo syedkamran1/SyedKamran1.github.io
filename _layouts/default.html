@@ -24,7 +24,7 @@
         <p id="site_desc">{{ site.description | default: site.github.project_tagline }}</p>
 
         {% for contact_detail in site.contact_details %}
-          <p>{{ contact_detail.name }}</p>
+          <p id="contact_details">{{ contact_detail.name }}</p>
         {% endfor %}
 
 
