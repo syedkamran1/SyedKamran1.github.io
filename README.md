@@ -13,3 +13,4 @@ Data Analyst from Udacity.
 Prince 2 Agile practitioner certificate.
 
 https://www.youtube.com/ 
+<a href="https://www.mdpi.com/1424-8220/22/11/4240">Publication</a>
