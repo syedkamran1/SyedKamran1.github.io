@@ -9,4 +9,11 @@ github:
   repository_url: https://www.youtube.com/
   another_url: another value
   is_project_page: false
+
+fruits:
+  - name: Apple
+  - name: Banana
+  - name: Orange
+  - name: Mango
+
  
