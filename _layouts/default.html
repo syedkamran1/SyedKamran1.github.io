@@ -23,7 +23,7 @@
 
         <p id="site_desc">{{ site.description | default: site.github.project_tagline }}</p>
 
-        {% for fruit in site.data.fruits %}
+        {% for fruit in site.fruits %}
           <p>{{ fruit.name }}</p>
         {% endfor %}
 
