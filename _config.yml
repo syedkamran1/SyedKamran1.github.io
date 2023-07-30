@@ -11,9 +11,9 @@ github:
   is_project_page: false
 
 fruits:
-  - name: Apple
-  - name: Banana
-  - name: Orange
-  - name: Mango
+  name: Apple
+  name: Banana
+  name: Orange
+  name: Mango
 
  
