@@ -16,6 +16,15 @@ domains. Looking for roles in the field of Data Science, Data Analyst and Machin
 - Writing SQL queries to gather, aggregate, and produce high-quality data reports for reconciliations using Business Intelligence and Reporting Tool (BIRT) and relational database management systems like MySQL, Oracle, and MS SQL Server.  
 - Utilizing regular expressions to perform data pre-processing tasks, such as extracting values from columns, combining multiple columns to create new ones, and performing cleaning operations.  
 
+
+### Software Engineer at TPS Worldwide (_November 2028 – September 2020_)
+❖ Working with the team of banking product (Switch) IRIS and responsible for customization at core end.  
+❖ Carrying out customization level changes (C++) in IRIS.  
+❖ Working on operating system Linux (red hat) and using TFS as version control.  
+❖ Responsible for writing SQL queries and stored procedures (Oracle Database/PLSQL).  
+❖ Developed numerous test cases / unit cases as per specification.  
+❖ Performed testing of APIs using Postman.  
+
 ## Education
 Masters in Data Science and Analytics from the University of Hertfordshire.
 
