@@ -23,9 +23,9 @@
 
         <p id="site_desc">{{ site.description | default: site.github.project_tagline }}</p>
 
-        {% for contact_detail in site.contact_details %}
+<!--         {% for contact_detail in site.contact_details %}
           <p id="contact_details"><i class="{{site.fa_icons.name}}"></i>{{ contact_detail.name }}</p>
-        {% endfor %}
+        {% endfor %} -->
 
 {% assign contact_details = site.contact_details %}
 {% assign fa_icons = site.fa_icons %}
@@ -34,6 +34,8 @@
   {% assign icon_index = forloop.index0 %}
   {% assign icon = fa_icons[icon_index] %}
   {{ contact.name }} - {{ icon.name }}
+
+         <p id="contact_details"><i class="{{ icon.name }}"></i> {{ contact.name }}</p>
 {% endfor %}
 
 
