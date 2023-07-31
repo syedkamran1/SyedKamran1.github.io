@@ -27,6 +27,12 @@
           <p id="contact_details"><i class="{{site.fa_icons.name}}"></i>{{ contact_detail.name }}</p>
         {% endfor %}
 
+        
+        {% for (item1, item2) in site.contact_details | zip:site.fa_icons %}
+        {{ item1 }} - {{ item2 }}
+        {% endfor %}
+
+
 
         {% if site.github.is_project_page %}
         <p class="view"><a href="{{ site.github.repository_url }}">View the Project on GitHub <small>{{ site.github.repository_nwo }}</small></a></p>
