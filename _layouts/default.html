@@ -27,12 +27,15 @@
           <p id="contact_details"><i class="{{site.fa_icons.name}}"></i>{{ contact_detail.name }}</p>
         {% endfor %}
 
- {% assign contact_details = site.contact_details %}
+{% assign contact_details = site.contact_details %}
 {% assign fa_icons = site.fa_icons %}
 
-{% for (contact, icon) in contact_details | zip:fa_icons %}
+{% for contact in contact_details %}
+  {% assign icon_index = forloop.index0 %}
+  {% assign icon = fa_icons[icon_index] %}
   {{ contact.name }} - {{ icon.name }}
 {% endfor %}
+
 
 
 
