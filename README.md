@@ -6,18 +6,20 @@ domains. Looking for roles in the field of Data Science, Data Analyst and Machin
 
 ## Work Experience
 **Data Analyst at Boundaryless (_November 2021 – Present_)**  
-
+City: London  
+Country: United Kingdom  
+Business or sector: Financial and insurance activities  
 ❖ Responsible for automation of Gresham's Controls that help financial institutions quickly reconcile data.  
 ❖ Collaborating with different stakeholders and SMEs to discuss project and reporting requirements.  
 ❖ Responsible for reviewing different data files such as CSV, TSV, Flat Files, PDFs and Swift Messages such as
-MT-535s, MT-950s and MT-940s. 
+MT-535s, MT-950s and MT-940s.  
 ❖ Responsible for building and configuring different types of controls for reconciliations including Cash
-Reconciliations, Holdings Reconciliations, and Custody and Positions Reconciliations. 
+Reconciliations, Holdings Reconciliations, and Custody and Positions Reconciliations.  
 ❖ Writing SQL queries to gather, aggregate, and produce high-quality data reports for reconciliations using
 Business Intelligence and Reporting Tool (BIRT) and relational database management systems like MySQL, Oracle,
-and MS SQL Server. 
+and MS SQL Server.  
 ❖ Utilizing regular expressions to perform data pre-processing tasks, such as extracting values from columns,
-combining multiple columns to create new ones, and performing cleaning operations
+combining multiple columns to create new ones, and performing cleaning operations.  
 
 ## Education
 Masters in Data Science and Analytics from the University of Hertfordshire.
