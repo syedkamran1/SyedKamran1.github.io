@@ -11,15 +11,17 @@ github:
   is_project_page: false
 
 contact_details:
+- name: London
 - name: syed_mkamran@outlook.com
 - name: www.linkedin.com/in/syedmkamran/
 - name: +44 744 8601388
 - name: +92 334 3137636
 
 fa_icons:
+- name: fas fa-map-marker-alt
 - name: far fa-envelope
 - name: fab fa-linkedin
 - name: fas fa-phone
-- name: fas fa-map-marker-alt
+- name: fas fa-phone
 
  
