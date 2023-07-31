@@ -28,9 +28,15 @@
         {% endfor %}
 
         
-        {% for (item1, item2) in site.contact_details | zip:site.fa_icons %}
-        {{ item1 }} - {{ item2 }}
-        {% endfor %}
+        {% assign contact_details = site.contact_details %}
+{% assign fa_icons = site.fa_icons %}
+
+{% for details_and_icon in contact_details | zip:fa_icons %}
+  {% assign item1 = details_and_icon[0] %}
+  {% assign item2 = details_and_icon[1] %}
+  {{ item1 }} - {{ item2 }}
+{% endfor %}
+
 
 
 
