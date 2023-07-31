@@ -64,9 +64,17 @@ domains. Looking for roles in the field of Data Science, Data Analyst and Machin
 
 ## Skills
 {: .section-heading }
-Data Visualization / Data Wrangling / SQL (Oracle, MySQL, MS SQL Server) / Linux Terminal Commands and
-Bash Scripting / Power BI / Pandas / Python / Data Analysis / Matplotlib / Machine Learning / Jupyter
-Notebook / Numpy / Data Preprocessing / Scikit-Learn / Deep Learning / REST APIs / Version Control /
-Seaborn / Anaconda / Birt / SWIFT messages / MI Reporting / Statistical Inference / Hypothesis Testing /
-Keras  
+Data Visualization / Data Wrangling / SQL (Oracle, MySQL, MS SQL Server) / Linux Terminal Commands and Bash Scripting / Power BI / Pandas / Python / Data Analysis / Matplotlib / Machine Learning / Jupyter Notebook / Numpy / Data Preprocessing / Scikit-Learn / Deep Learning / REST APIs / Version Control / Seaborn / Anaconda / Birt / SWIFT messages / MI Reporting / Statistical Inference / Hypothesis Testing / Keras  
+
+## Certifications
+{: .section-heading }
+- PRINCE2 Agile Practitioner Certificate in Agile Project Management.  
+- Udacity Data Analyst Nanodegree.  
+
+## Areas of Interest
+{: .section-heading }
+- Applications Development  
+- Data Science / Data Analysis  
+- Neural Networks and Deep Learning  
+- Computer Vision  
 
