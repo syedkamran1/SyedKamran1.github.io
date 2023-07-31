@@ -9,9 +9,7 @@ domains. Looking for roles in the field of Data Science, Data Analyst and Machin
 ## Work Experience
 {: .section-heading }
 ### Data Analyst at Boundaryless (_November 2021 – Present_)
-**City:** <i class="fas fa-city"></i>London  
-**Country**: United Kingdom  
-
+**City:** <i class="fas fa-map-marker-alt"></i> London, United Kingdom  
 ❖ Responsible for automation of Gresham's Controls that help financial institutions quickly reconcile data.  
 ❖ Collaborating with different stakeholders and SMEs to discuss project and reporting requirements.  
 ❖ Responsible for reviewing different data files such as CSV, TSV, Flat Files, PDFs and Swift Messages such as MT-535s, MT-950s and MT-940s.  
