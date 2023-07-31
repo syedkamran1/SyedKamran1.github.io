@@ -70,14 +70,3 @@ Notebook / Numpy / Data Preprocessing / Scikit-Learn / Deep Learning / REST APIs
 Seaborn / Anaconda / Birt / SWIFT messages / MI Reporting / Statistical Inference / Hypothesis Testing /
 Keras  
 
-## Certifications
-{: .section-heading }
-- PRINCE2 Agile Practitioner Certificate in Agile Project Management.  
-- Udacity Data Analyst Nanodegree.  
-
-## Areas of Interest
-{: .section-heading }
-- Applications Development  
-- Data Science / Data Analysis  
-- Neural Networks and Deep Learning  
-- Computer Vision  
