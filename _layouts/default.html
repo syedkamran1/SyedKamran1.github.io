@@ -26,14 +26,26 @@
         {% assign contact_details = site.contact_details %}
         {% assign fa_icons = site.fa_icons %}
         
-        {% for contact in contact_details %}
+        {% for contact in contact_details %}        
           {% assign icon_index = forloop.index0 %}
           {% assign icon = fa_icons[icon_index] %}
-                 <p id="contact_details"><i class="{{ icon.name }}"></i> {{ contact.name }}</p>
+  
+          {% if contact.name contains 'linkedin' %}   
+                   <p id="contact_details"><i class="{{ icon.name }}"></i> <a href="https://www.linkedin.com/in/syedmkamran/ "target="_blank">{{ contact.name }}</a> </p>          
+          {% else %}
+            <p id="contact_details"><i class="{{ icon.name }}"></i> {{ contact.name }}</p>
+          {% endif %}               
         {% endfor %}
-
-
-
+        
+          
+          {% if contact.name contains 'linkedin' %}
+            <a href="{{ contact.name }}" target="_blank">
+              {{ contact.name }} - {{ icon.name }}
+            </a>
+          {% else %}
+            {{ contact.name }} - {{ icon.name }}
+          {% endif %}
+        {% endfor %}
 
 
 
