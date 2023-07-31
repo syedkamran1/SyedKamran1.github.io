@@ -46,7 +46,7 @@ domains. Looking for roles in the field of Data Science, Data Analyst and Machin
 ### Bachelor of Engineering in Computer Systems
 **NED University of Engineering and Technology (_2015 – 2018_)**  
 
-**Final grade:** CGPA 3.641    
+**Final grade:** CGPA 3.641  
 **Major courses include:**  
 • Computer Programming  
 • Discrete Structures  
