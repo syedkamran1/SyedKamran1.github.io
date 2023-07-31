@@ -20,7 +20,7 @@ domains. Looking for roles in the field of Data Science, Data Analyst and Machin
 ❖ Utilizing regular expressions to perform data pre-processing tasks, such as extracting values from columns, combining multiple columns to create new ones, and performing cleaning operations.  
 
 
-### Software Engineer at TPS Worldwide (_November 2028 – September 2020_)
+### Software Engineer at TPS Worldwide (_November 2018 – September 2020_)
 ❖ Working with the team of banking product (Switch) IRIS and responsible for customization at core end.  
 ❖ Carrying out customization level changes (C++) in IRIS.  
 ❖ Working on operating system Linux (red hat) and using TFS as version control.  
