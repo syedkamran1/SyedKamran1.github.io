@@ -29,7 +29,38 @@ domains. Looking for roles in the field of Data Science, Data Analyst and Machin
 ❖ Performed testing of APIs using Postman.  
 
 ## Education
-Masters in Data Science and Analytics from the University of Hertfordshire.
+{: .section-heading }
+### Masters in Data Science and Analytics 
+**University of Hertfordshire (_2020 – 2021_)**  
+**City:** Hatfield  
+**Country:** United Kingdom  
+
+**Final grade:** Distinction   
+**Thesis:** Applying Latent Semantic Analysis (LSA) to Different Aspects of Text-Based Neural Model   
+**Major courses include:**  
+• Foundation of Data Science  
+• Applied Data Science and Analytics  
+• Data Mining  
+• Neural Networks and Machine Learning  
+
+### Bachelor of Engineering in Computer Systems
+**NED University of Engineering and Technology (_2015 – 2018_)**  
+
+**Final grade:** CGPA 3.641    
+**Major courses include:**  
+• Computer Programming  
+• Discrete Structures  
+• Objected Oriented Programming  
+• Digital Logic Design  
+• Data Structures & Algorithms  
+• Database Management Systems  
+• Software Engineering  
+• Computer Communication Networks  
+• Computer Architecture  
+• Artificial Intelligence  
+• Operating Systems  
+• Microprocessor Based System Design  
+• Computer Systems Modelling  
 
 ### Work Experience
 Data Analyst at Boundaryless.
