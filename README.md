@@ -5,7 +5,7 @@ along with over 3 years of experience in the technical field covering mostly fin
 domains. Looking for roles in the field of Data Science, Data Analyst and Machine Learning Engineer.
 
 ## Work Experience
-**Data Analyst at Boundaryless ----- (November 2021 – Present)**  
+**Data Analyst at Boundaryless (_November 2021 – Present_)**  
 
 ❖ Responsible for automation of Gresham's Controls that help financial institutions quickly reconcile data.  
 ❖ Collaborating with different stakeholders and SMEs to discuss project and reporting requirements.  
