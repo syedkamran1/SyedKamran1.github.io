@@ -62,12 +62,22 @@ domains. Looking for roles in the field of Data Science, Data Analyst and Machin
 • Microprocessor Based System Design  
 • Computer Systems Modelling  
 
-### Work Experience
-Data Analyst at Boundaryless.
+## Skills
+{: .section-heading }  
+Data Visualization / Data Wrangling / SQL (Oracle, MySQL, MS SQL Server) / Linux Terminal Commands and
+Bash Scripting / Power BI / Pandas / Python / Data Analysis / Matplotlib / Machine Learning / Jupyter
+Notebook / Numpy / Data Preprocessing / Scikit-Learn / Deep Learning / REST APIs / Version Control /
+Seaborn / Anaconda / Birt / SWIFT messages / MI Reporting / Statistical Inference / Hypothesis Testing /
+Keras  
 
-### Certifications
-Data Analyst from Udacity.
-Prince 2 Agile practitioner certificate.
+## Certifications
+{: .section-heading }  
+- PRINCE2 Agile Practitioner Certificate in Agile Project Management.  
+- Udacity Data Analyst Nanodegree.  
 
-https://www.youtube.com/ 
-<a href="https://www.mdpi.com/1424-8220/22/11/4240">Publication</a>
+## Areas of Interest
+{: .section-heading }  
+- Applications Development  
+- Data Science / Data Analysis  
+- Neural Networks and Deep Learning  
+- Computer Vision  
