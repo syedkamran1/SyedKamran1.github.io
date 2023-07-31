@@ -1,10 +1,12 @@
 
-# Career Objective
+## Career Objective
+---
 A data-oriented, analytical and technical person having a Master's Degree in Data Science and Analytics 
 along with over 3 years of experience in the technical field covering mostly fintech and financial 
 domains. Looking for roles in the field of Data Science, Data Analyst and Machine Learning Engineer.
 
-# Work Experience
+## Work Experience
+---
 ### Data Analyst at Boundaryless (_November 2021 – Present_)
 **City:** London  
 **Country**: United Kingdom  
