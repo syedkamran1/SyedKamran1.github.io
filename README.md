@@ -1,8 +1,6 @@
-# SyedMKamran.github.io
 
-# Data Scientist
 
-### Education
+## Education
 Masters in Data Science and Analytics from the University of Hertfordshire.
 
 ### Work Experience
