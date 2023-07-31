@@ -9,6 +9,7 @@ domains. Looking for roles in the field of Data Science, Data Analyst and Machin
 ## Work Experience
 {: .section-heading }
 ### Data Analyst at Boundaryless (_November 2021 – Present_)
+{: .section-subheading }
 <i class="fas fa-map-marker-alt"></i> **London, United Kingdom**  
 
 ❖ Responsible for automation of Gresham's Controls that help financial institutions quickly reconcile data.  
@@ -30,6 +31,7 @@ domains. Looking for roles in the field of Data Science, Data Analyst and Machin
 ## Education
 {: .section-heading }
 ### Masters in Data Science and Analytics 
+{: .section-subheading }
 <i class="fas fa-university"></i> **University of Hertfordshire (_2020 – 2021_)**  
 <i class="fas fa-map-marker-alt"></i> **Hatfield, United Kingdom**    
 
@@ -42,6 +44,7 @@ domains. Looking for roles in the field of Data Science, Data Analyst and Machin
 • Neural Networks and Machine Learning  
 
 ### Bachelor of Engineering in Computer Systems
+{: .section-subheading }
 <i class="fas fa-university"></i>  **NED University of Engineering and Technology (_2015 – 2018_)**  
 
 **Final grade:** CGPA 3.641  
