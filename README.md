@@ -13,20 +13,21 @@ domains. Looking for roles in the field of Data Science, Data Analyst and Machin
 <i class="fas fa-map-marker-alt"></i> **London, United Kingdom**  
 
 ❖ Responsible for automation of Gresham's Controls that help financial institutions quickly reconcile data.  
-❖ Collaborating with different stakeholders and SMEs to discuss project and reporting requirements.  
-❖ Responsible for reviewing different data files such as CSV, TSV, Flat Files, PDFs and Swift Messages such as MT-535s, MT-950s and MT-940s.  
-❖ Responsible for building and configuring different types of controls for reconciliations including Cash Reconciliations, Holdings Reconciliations, and Custody and Positions Reconciliations.  
-❖ Writing SQL queries to gather, aggregate, and produce high-quality data reports for reconciliations using Business Intelligence and Reporting Tool (BIRT) and relational database management systems like MySQL, Oracle, and MS SQL Server.  
-❖ Utilizing regular expressions to perform data pre-processing tasks, such as extracting values from columns, combining multiple columns to create new ones, and performing cleaning operations.  
+❖ Collaborated with stakeholders and SMEs to discuss project and reporting requirements.  
+❖ Reviewed diverse data files, including CSV, TSV, Flat Files, PDFs, and Swift Messages (MT-535s, MT-950s, and MT-940s).  
+❖ Built and configured various reconciliation controls, such as Cash Reconciliations, Holdings Reconciliations, and Custody and Positions Reconciliations.  
+❖ Produced high-quality data reports using SQL queries and Business Intelligence and Reporting Tool (BIRT) with MySQL, Oracle, and MS SQL Server.  
+❖ Enhanced the existing cash proof report by rewriting MySQL queries with joins for improved performance and accuracy.  
+❖ Configured a comprehensive dashboard for stock reconciliation, displaying daily volumes, match rate, breaks rate, and records assigned per user, providing real-time insights into the reconciliation process.  
+❖ Customized various day-to-day reports based on customers' requirements to enhance visibility and monitoring of reconciliation and controls.  
 
 
 ### Software Engineer at TPS Worldwide (_November 2018 – September 2020_)
-❖ Working with the team of banking product (Switch) IRIS and responsible for customization at core end.  
-❖ Carrying out customization level changes (C++) in IRIS.  
-❖ Working on operating system Linux (red hat) and using TFS as version control.  
-❖ Responsible for writing SQL queries and stored procedures (Oracle Database/PLSQL).  
-❖ Developed numerous test cases / unit cases as per specification.  
-❖ Performed testing of APIs using Postman.  
+❖ Customized the banking product IRIS through C++ modifications at the core level.  
+❖ Utilized Oracle Database and wrote SQL queries and stored procedures.  
+❖ Developed numerous test cases and unit cases as per specifications.  
+❖ Tested APIs using Postman for API testing.  
+❖ Collaborated with a team to work on the banking product "Switch" IRIS on the Linux (Red Hat) operating system.  
 
 ## Education
 {: .section-heading }
